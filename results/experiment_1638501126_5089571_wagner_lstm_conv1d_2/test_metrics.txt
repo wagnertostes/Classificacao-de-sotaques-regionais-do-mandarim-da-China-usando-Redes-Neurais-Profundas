@@ -1,0 +1,22 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+     beijing       0.67      0.78      0.72        83
+   guangdong       0.67      0.50      0.57        16
+   guangzhou       0.69      0.44      0.54        25
+      henduo       0.37      0.58      0.45        33
+        wuqi       0.33      0.08      0.13        12
+      youxie       0.00      0.00      0.00        11
+
+    accuracy                           0.58       180
+   macro avg       0.45      0.40      0.40       180
+weighted avg       0.55      0.58      0.55       180
+Los:
+0.7603133
+Confusion Matrix:
+65	0	1	17	0	0	
+2	8	0	6	0	0	
+5	1	11	7	1	0	
+10	0	3	19	1	0	
+7	3	0	1	1	0	
+8	0	1	2	0	0	
